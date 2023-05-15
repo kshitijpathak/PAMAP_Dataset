@@ -7,3 +7,7 @@ Data Cleaning: performing sanity checks and treating erroneous data
 Exploratory Data Analysis: analysing data for any underlying trens and relationships between variables
 Hypothesis Testing: conducting statistical tests to confirm the observed relationships
 Model Development: developing a suitable model which builds upon the previous analyses
+
+
+#### The data can be downloaded from the below link:
+https://archive.ics.uci.edu/ml/machine-learning-databases/00231/PAMAP2_Dataset.zip
